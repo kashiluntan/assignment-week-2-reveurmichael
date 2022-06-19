@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Python test",
-      "setup": "pip3 install pytest",
+      "setup": "pip3 install pytest nbresult",
       "run": "make",
       "input": "",
       "output": "",
