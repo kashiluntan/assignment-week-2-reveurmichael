@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Python test",
+      "setup": "pip3 install pytest",
+      "run": "make",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
